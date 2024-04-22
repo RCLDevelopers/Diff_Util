@@ -59,4 +59,4 @@ On running ``./diff.py v1 v2``, you'll get the following output:
 ![Python Diff Utility](diff_util.jpg)
 
 # KILLinefficiency
-Github Link: [KILLinefficiency](https://www.github.com/KILLinefficiency)
+Github Link: [Zangtics Digital](https://github.com/RCLDevelopers/Diff_Util)
