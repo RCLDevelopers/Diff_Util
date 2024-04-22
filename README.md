@@ -58,5 +58,5 @@ On running ``./diff.py v1 v2``, you'll get the following output:
 ## Screenshot
 ![Python Diff Utility](diff_util.jpg)
 
-# KILLinefficiency
+# Zangtics Digital
 Github Link: [Zangtics Digital](https://github.com/RCLDevelopers/Diff_Util)
